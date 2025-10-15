@@ -1,0 +1,30 @@
+{
+  "name": "plp-mern-stack-development-classroom-express-js-server-side-framework-mern-stack-week2",
+  "version": "1.0.0",
+  "description": "This assignment focuses on building a RESTful API using Express.js, implementing proper routing, middleware, and error handling.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PLP-MERN-Stack-Development/plp-mern-stack-development-classroom-express-js-server-side-framework-MERN-Stack-Week2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PLP-MERN-Stack-Development/plp-mern-stack-development-classroom-express-js-server-side-framework-MERN-Stack-Week2/issues"
+  },
+  "homepage": "https://github.com/PLP-MERN-Stack-Development/plp-mern-stack-development-classroom-express-js-server-side-framework-MERN-Stack-Week2#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "morgan": "^1.10.1",
+    "uuid": "^13.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
